@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+    <TextView
+        android:id="@+id/detail_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="饮食"
+        android:textColor="#212121"/>
+    <TextView
+        android:id="@+id/detail_percent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/detail_name"
+        android:text="/ 59.88%"
+        android:textColor="#BDC1CB"/>
+    <TextView
+        android:id="@+id/detail_cost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1415.00"
+        android:layout_alignParentRight="true"
+        android:textColor="#212121"/>
+</RelativeLayout>

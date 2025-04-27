@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">叨叨记账</string>
+    <string name="tab_text_1">收</string>
+    <string name="tab_text_2">食</string>
+    <string name="tab_text_3">购</string>
+    <string name="tab_text_4">行</string>
+    <string name="tab_text_5">育</string>
+    <string name="tab_text_6">乐</string>
+    <string name="tab_text_7">住</string>
+    <string name="tab_text_8">医</string>
+</resources>

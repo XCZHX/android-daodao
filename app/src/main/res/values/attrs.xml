@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalendarLayout">
+        <attr name="default_status"> <!--默认状态-->
+            <enum name="expand" value="0" /><!--展开-->
+            <enum name="shrink" value="1" /><!--收缩-->
+        </attr>
+        <attr name="only_week_view" format="boolean" /><!--仅使用周视图-->
+        <attr name="calendar_content_view_id" format="integer" /><!--如果需要放内容，请标记子View id-->
+    </declare-styleable>
+</resources>
