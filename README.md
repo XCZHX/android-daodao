@@ -9,7 +9,9 @@
 
 添加账单包括选择类目、事件、账户、备注、金额。
 
-[![图2 添加事件并触发聊天回复](https://objectstorageapi.hzh.sealos.run/kdubuo6i-sealaf-douumbmxo2-cloud-bin/resource/chat-pic/2.gif)]](https://objectstorageapi.hzh.sealos.run/kdubuo6i-sealaf-douumbmxo2-cloud-bin/resource/chat-pic/1.png)
+![图2 添加事件并触发聊天回复](https://objectstorageapi.hzh.sealos.run/kdubuo6i-sealaf-douumbmxo2-cloud-bin/resource/chat-pic/2.gif)
+
+<img src="https://objectstorageapi.hzh.sealos.run/kdubuo6i-sealaf-douumbmxo2-cloud-bin/resource/chat-pic/2.gif" alt="111"></img>
 ### 日历界面
 点击日期显示当天详细收支情况。
 
