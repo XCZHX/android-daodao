@@ -1,6 +1,6 @@
 # 基于Android原生实现的仿叨叨记账软件
 
-## 功能展示(如动图无法正常显示请点击图片下载)
+## 功能展示(如图片无法正常显示请点击图片下载)
 ### 初始界面
 [![图1 初始界面](https://i.postimg.cc/dtBsgjzh/1.png)](https://i.postimg.cc/dtBsgjzh/1.png)
 
